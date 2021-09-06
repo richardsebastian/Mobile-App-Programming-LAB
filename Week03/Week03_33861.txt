@@ -1,0 +1,7 @@
+- jika button "kata 1" dan seterusnya ditekan maka akan berubah isinya menjadi "kata 1 pernah dipilih" ini semua berlaku pada semua kata dengan angka lainnya
+
+- setelah button kata 1 berhasil berubah akan muncul pop up/toast dengan tulisan "kata 1 dipilih"
+
+- kalau kita menekan floating button maka akan bertambah kata "angka" nya, saat pertama kali ditekan akan muncul button baru "kata 21 telah ditambahkan"
+
+- semua button yg pernah di tekan jika ditekan kembali akan terjadi pengulangan "pernah dipilih" contohnya jika "kata 1 pernah dipilih" ditekan lagi akan berubah menjadi "kata 1 pernah dipilih pernah pilih", sama halnya dengan kata yang baru ditambah contohnya "kata 21 telah ditambahkan" akan berubah menjadi "kata 21 telah ditambahkan pernah dipilih"
