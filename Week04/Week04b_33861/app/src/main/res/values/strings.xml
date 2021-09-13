@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week 04b_33861</string>
+    <string name="hal1">Halaman 1</string>
+    <string name="hal2">Halaman 2</string>
+    <string name="nama">Nama</string>
+    <string name="hint1">Tulisan...</string>
+    <string name="gntitls">Ganti Tulisan</string>
+    <string name="initial">Initial Textview</string>
+</resources>

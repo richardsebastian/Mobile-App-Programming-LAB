@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week 04a_33861</string>
+    <string name="hint1">Teks Yang Akan Dikirim</string>
+    <string name="hint2">Halaman Website</string>
+    <string name="kirim">Kirim</string>
+    <string name="browse">Browse</string>
+    <string name="hint3">Jawaban</string>
+    <string name="balas">Balas</string>
+</resources>

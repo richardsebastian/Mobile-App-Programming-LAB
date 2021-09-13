@@ -1,0 +1,8 @@
+Tutorial Pertama Intent
+- pada edit text pertama berfungsi seperti sistem chat antara activity main dengan second activity, jika kita mengirim pesan dari main activity dan menekan kirim maka akan pindah ke halaman second activity disitu akan terlihat pesan yang disampaikan dari main activity kemudian hal yang sama bisa dilakukan dari second activity mengirim pesan ke main activity, nanti pesannya akan tetap terlihat dari main activity, jika proses ini dilakukan berulang selama eksperimen aman tidak ada terjadi penumpukan kalimat yg sebelumnya digunakan.
+
+- pada edit text browser kita bisa menyambungkan link url kita ke google chrome yang ada di emulator, dengan syarat menggunakan http: atau http:// baru bisa lanjut ke browsernya, kalau tidak ada http: tidak akan bisa lanjut ke halaman browsernya. jika tidak ditulis diakhir .com maka tidak bisa masuk ke url yang kita inginkan. contohnya http://google maka akan keluar di browser server not found
+
+Tutorial 2 Fragment
+
+- apps di emulator bisa berjalan dari main activity jika di klik halaman 1 maka akan ke second activity dan halaman 2 ke third activity. halaman 1 dan halaman kedua bedanya halaman 1 menggunakan fragment(manual) sedangkan halaman dua menggunakan frame layout(programatic)
