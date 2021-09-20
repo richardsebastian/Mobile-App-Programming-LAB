@@ -1,0 +1,10 @@
+pada modul kali ini kita seperti membuat aplikasi paint sederhada
+
+jika button rect ditekan dan kita gambar di screen akan kebentuk gambar kotak bisa persegi bisa persegi panjang
+jika button oval ditekan dan ktia gambar di screen akan kebentuk gambar bulatan
+jika button line ditekan dan kita gambar di screen akan kebentu sebuah garis lurus
+jika button path ditekan dan kita gambar di screen kita bisa bebas menggambar bentuk apapun seperti layaknya mengambar dengan tangan kita
+
+lalu panel rgb dibawah bisa kita gunakan untuk mengubah warna lukisan yang kita mau dengan menggeser setiap komponen red green dan blue sampai ke warna yang diinginkn
+
+terakhir tombol x diatas jika dipencet maka akan menghapus semua gambar yang sudah kita buat.
