@@ -1,0 +1,5 @@
+Pada project 6a saat layar di klik maka di lokasi kliknya akan keluar animasi lingkaran yang dari kecil lalu membesar dan saat lingkarannya membesar akan berubah warnanya, selain itu saat sudah sampai maksimal lingkarannya akan kembali mengecil hingga menghilang, kemudia jika layarnya ditekan berulang diberbagi posisi maka akan muncul lingkaran kecil yang bergantian tempat sesuai tempat kita klik namun tidak sampai besar.
+
+Pada project 6b saat layar di klik gambar kuda aka berganti dengan cepat sehingga membuat animasi kuda sedang berlari
+
+Pada project 6c saat halo spring di klik kotak nya akan ber-animasi turun kebawah lalu naik kembali seperti memantul,sedangkan halo fling ketika di klik kotaknya akan berputar di tempat secara vertikal tetapi tidak kembali ke posisi semula jika di klik terus menerus akan berputar secara vertikal secara terus menerus
