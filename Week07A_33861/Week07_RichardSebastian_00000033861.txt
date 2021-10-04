@@ -1,0 +1,5 @@
+1. Saat button ambil foto ditekan akan muncul seperti layar camera hp pada umumnya saat ditekan foto lalu akan klik tombol centang untuk menyimpan foto kemudian akan kembali ke halaman aplikasi dan tertampil foto yang barusan diambil
+
+2. saat button ambil video ditekan akan muncul seperti layar camera hp pada umumnya saat ditekan tombol start video akan mulai merekan lalu klik logo kotak video akan berhenti direkam kemudian kembali ke halaman awal dan tertampil video yang barusan diambil
+
+3. di awal awal akan muncul approval untuk allow camera di hp
