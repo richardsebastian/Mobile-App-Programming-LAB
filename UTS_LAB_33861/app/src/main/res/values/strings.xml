@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTS_LAB_33861</string>
+    <string name="judul">SFX Library and Previewer</string>
+    <string name="lbrbtt">Library</string>
+    <string name="prfbtt">Profile</string>
+    <string name="nama">Richard Sebastian</string>
+    <string name="nim">00000033861</string>
+    <string name="kls">IF 570 - BL</string>
+    <string name="ref">Referensi</string>
+    <string name="login">LOGIN PAGE</string>
+    <string name="next">NEXT</string>
+    <string name="hint">Mauskan nama anda…</string>
+    <string name="main">Halaman Awal</string>
+    <string name="txtv">Text View</string>
+    <string name="plysfx">PLAY SFX</string>
+    <string name="clk">Click-Detail</string>
+    <string name="link1">https://www.zedge.net/ringtones</string>
+    <string name="link2">https://stackoverflow.com/</string>
+    <string name="link3">https://www.geeksforgeeks.org/</string>
+    <string name="link4">Modul UMN</string>
+</resources>
